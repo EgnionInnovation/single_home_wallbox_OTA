@@ -1,0 +1,8 @@
+.pio
+.vscode
+data
+include
+lib
+src
+test
+platformio.ini
